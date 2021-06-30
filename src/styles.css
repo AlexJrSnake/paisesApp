@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.small-flag {
+    width: 50px;
+}
+
+.mr-1{
+ margin-right: 5px;   
+}
+
+table {
+    width: 100%;
+    text-align: center !important;
+}
+
+.mat-sort-header-container{
+    justify-content: center;
+}
+
+.mat-header-cell {
+    text-align: center !important;
+}
